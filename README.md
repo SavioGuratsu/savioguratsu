@@ -16,4 +16,11 @@ Desenvolvimento em aplicações WEB com PHP server side e Analista de suporte pa
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/javascript/javascript-original.svg">
-
+</div>
+  <br>
+  <div> 
+  
+  <a href="https://www.instagram.com/saviordgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:savioguratsu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/savio-rodrigues-php/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
