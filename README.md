@@ -16,6 +16,7 @@ Desenvolvimento em aplicações WEB com PHP server side e Analista de suporte pa
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center"   height="60" width="70" src="https://github.com/SavioGuratsu/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="right"   height="150" width="200" src="https://media.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif">
 </div>
   <br>
   <div> 
