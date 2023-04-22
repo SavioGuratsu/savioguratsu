@@ -1,8 +1,6 @@
 ## Olá dev,Eu sou o Sávio Rodrigues,copie e cole com moderação :)
-<h7> Atualmente com 23 anos, Membro da equipe de tecnologia da CESGRANRIO durante as aplicações das provas do ENEM Digital.
-Experiência com direção de equipes, planejamentos de estratégias e gerenciamento de atletas.
-Desenvolvimento em aplicações WEB com PHP server side e Analista de suporte para a educação na Prefeitura Municipal de Itaboraí 
-<br> #aluraverso </h7>
+<h7> Atualmente com 24 anos, Membro da equipe de tecnologia da CESGRANRIO durante as aplicações das provas do ENEM Digital.
+ </h7>
 
 <div>
   <a href="https://github.com/savioguratsu">
