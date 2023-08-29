@@ -1,5 +1,5 @@
 ## Olá dev,Eu sou o Sávio Rodrigues,copie e cole com moderação :)
-<h7> Atualmente com 25 anos, Desenvolver web pela Prefeitura Municipal de Itaboraí
+<h7> Desenvolver web pela Prefeitura Municipal de Itaboraí
  </h7>
 
 <div>
